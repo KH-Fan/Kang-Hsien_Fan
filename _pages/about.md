@@ -9,9 +9,9 @@ profile:
   image: frank_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3123 Public Health</p>
-    <p>130 DeSoto Street</p>
-    <p>Pittsburgh, PA 15261</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +28,6 @@ latest_posts:
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Dr. Kang-Hsien (Frank) Fan is a Research Assistant Professor in the Department of Human Genetics at the University of Pittsburgh. His research focuses on the genomic mechanisms that drive neurodegeneration in Alzheimer’s disease and related dementias (ADRD). With a strong background in biostatistics, bioinformatics, and statistical genetics, Dr. Fan has made significant contributions to understanding the genetic underpinnings of complex diseases. His current work includes using whole-genome sequencing to investigate tissue-specific genetic variations in autopsy-confirmed Alzheimer’s patients, aiming to uncover the biological mechanisms contributing to ADRD risk.  He aims to deepen his exploration of tissue-specific genomic variations and their role in neurodegeneration.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
