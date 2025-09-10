@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Kang-Hsien (Frank) Fan is a Research Assistant Professor in the Department of Human Genetics at the University of Pittsburgh. His research focuses on the genomic mechanisms that drive neurodegeneration in Alzheimer’s disease and related dementias (ADRD). With a strong background in biostatistics, bioinformatics, and statistical genetics, Dr. Fan has made significant contributions to understanding the genetic underpinnings of complex diseases. His current work includes using whole-genome sequencing to investigate tissue-specific genetic variations in autopsy-confirmed Alzheimer’s patients, aiming to uncover the biological mechanisms contributing to ADRD risk. He aims to deepen his exploration of tissue-specific genomic variations and their role in neurodegeneration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Fan aims to build bioinformatics workflows that advance ADRD research and foster collaborations between the University of Pittsburgh ADRC and external research partners.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an OSCAR Scholar in the Biomarker and Neurogenetics Core, Dr. Fan is dedicated to mentoring students and postdoctoral fellows, helping them develop expertise in genomics and bioinformatics. Through the OSCAR program, he hopes to expand his research network, enhance his leadership skills, and secure funding to advance his research into the genetic architecture of Alzheimer’s disease.
