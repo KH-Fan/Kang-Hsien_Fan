@@ -101,7 +101,7 @@ layout: default
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
-                {% when 'awards' %}
+                {% when 'honors' %}
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
@@ -109,12 +109,12 @@ layout: default
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
-                {% when 'interests' %}
+                {% when 'research interests' %}
                   {% include resume/interests.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
+                {% when 'scientific society member' %}
+                  {% include resume/awards.liquid %}
                 {% else %}
 
               {% endcase %}
