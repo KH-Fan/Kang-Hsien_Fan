@@ -6,7 +6,7 @@ description: My contributions to science
 nav: true
 nav_order: 3
 display_categories: [work]
-horizontal: False
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -29,7 +29,7 @@ horizontal: False
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-sm-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -55,7 +55,7 @@ horizontal: False
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
