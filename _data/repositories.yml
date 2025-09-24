@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - KH-Fan
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - KH-Fan/my-small-R-function
+  - KH-Fan/eQTL-R-Simulation
+  - KH-Fan/Kang-Hsien_Fan
